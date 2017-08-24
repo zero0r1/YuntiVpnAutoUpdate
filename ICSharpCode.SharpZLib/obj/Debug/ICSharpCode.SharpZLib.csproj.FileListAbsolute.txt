@@ -1,0 +1,30 @@
+C:\Users\Ua\Desktop\CSharpZip\bin\ICSharpCode.SharpZipLib.xml
+C:\Users\Ua\Desktop\CSharpZip\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Ua\Desktop\CSharpZip\bin\ICSharpCode.SharpZipLib.pdb
+C:\Users\Ua\Desktop\CSharpZip\ICSharpCode.SharpZLib\obj\Debug\ICSharpCode.SharpZLib.csprojResolveAssemblyReference.cache
+C:\Users\Ua\Desktop\CSharpZip\ICSharpCode.SharpZLib\obj\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Ua\Desktop\CSharpZip\ICSharpCode.SharpZLib\obj\Debug\ICSharpCode.SharpZipLib.pdb
+F:\Company\Project\Project1\bin\ICSharpCode.SharpZipLib.xml
+F:\Company\Project\Project1\bin\ICSharpCode.SharpZipLib.dll
+F:\Company\Project\Project1\bin\ICSharpCode.SharpZipLib.pdb
+F:\Company\Project\Project1\ICSharpCode.SharpZLib\obj\Debug\ICSharpCode.SharpZLib.csprojResolveAssemblyReference.cache
+F:\Company\Project\Project1\ICSharpCode.SharpZLib\obj\Debug\ICSharpCode.SharpZipLib.dll
+F:\Company\Project\Project1\ICSharpCode.SharpZLib\obj\Debug\ICSharpCode.SharpZipLib.pdb
+F:\Company\Project\YuntiVpnAutoUpdate\bin\ICSharpCode.SharpZipLib.xml
+F:\Company\Project\YuntiVpnAutoUpdate\bin\ICSharpCode.SharpZipLib.dll
+F:\Company\Project\YuntiVpnAutoUpdate\bin\ICSharpCode.SharpZipLib.pdb
+F:\Company\Project\YuntiVpnAutoUpdate\ICSharpCode.SharpZLib\obj\Debug\ICSharpCode.SharpZLib.csprojResolveAssemblyReference.cache
+F:\Company\Project\YuntiVpnAutoUpdate\ICSharpCode.SharpZLib\obj\Debug\ICSharpCode.SharpZipLib.dll
+F:\Company\Project\YuntiVpnAutoUpdate\ICSharpCode.SharpZLib\obj\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Ua\Downloads\YuntiVpnAutoUpdate(2)\YuntiVpnAutoUpdate\bin\ICSharpCode.SharpZipLib.xml
+C:\Users\Ua\Downloads\YuntiVpnAutoUpdate(2)\YuntiVpnAutoUpdate\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Ua\Downloads\YuntiVpnAutoUpdate(2)\YuntiVpnAutoUpdate\bin\ICSharpCode.SharpZipLib.pdb
+C:\Users\Ua\Downloads\YuntiVpnAutoUpdate(2)\YuntiVpnAutoUpdate\ICSharpCode.SharpZLib\obj\Debug\ICSharpCode.SharpZLib.csprojResolveAssemblyReference.cache
+C:\Users\Ua\Downloads\YuntiVpnAutoUpdate(2)\YuntiVpnAutoUpdate\ICSharpCode.SharpZLib\obj\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Ua\Downloads\YuntiVpnAutoUpdate(2)\YuntiVpnAutoUpdate\ICSharpCode.SharpZLib\obj\Debug\ICSharpCode.SharpZipLib.pdb
+C:\XTH\C# Help\YuntiVpnAutoUpdate\bin\ICSharpCode.SharpZipLib.xml
+C:\XTH\C# Help\YuntiVpnAutoUpdate\bin\ICSharpCode.SharpZipLib.dll
+C:\XTH\C# Help\YuntiVpnAutoUpdate\bin\ICSharpCode.SharpZipLib.pdb
+C:\XTH\C# Help\YuntiVpnAutoUpdate\ICSharpCode.SharpZLib\obj\Debug\ICSharpCode.SharpZLib.csprojResolveAssemblyReference.cache
+C:\XTH\C# Help\YuntiVpnAutoUpdate\ICSharpCode.SharpZLib\obj\Debug\ICSharpCode.SharpZipLib.dll
+C:\XTH\C# Help\YuntiVpnAutoUpdate\ICSharpCode.SharpZLib\obj\Debug\ICSharpCode.SharpZipLib.pdb
