@@ -16,3 +16,11 @@ C:\XTH\C# Help\YuntiVpnAutoUpdate\RouteTool\obj\Debug\RouteTool.Properties.Resou
 C:\XTH\C# Help\YuntiVpnAutoUpdate\RouteTool\obj\Debug\RouteTool.csproj.GenerateResource.Cache
 C:\XTH\C# Help\YuntiVpnAutoUpdate\RouteTool\obj\Debug\RouteTool.exe
 C:\XTH\C# Help\YuntiVpnAutoUpdate\RouteTool\obj\Debug\RouteTool.pdb
+D:\support\xiang\Documents\GitHub\YuntiVpnAutoUpdate\RouteTool\bin\Debug\RouteTool.exe
+D:\support\xiang\Documents\GitHub\YuntiVpnAutoUpdate\RouteTool\bin\Debug\RouteTool.pdb
+D:\support\xiang\Documents\GitHub\YuntiVpnAutoUpdate\RouteTool\obj\Debug\RouteTool.csprojResolveAssemblyReference.cache
+D:\support\xiang\Documents\GitHub\YuntiVpnAutoUpdate\RouteTool\obj\Debug\RouteTool.frmMain.resources
+D:\support\xiang\Documents\GitHub\YuntiVpnAutoUpdate\RouteTool\obj\Debug\RouteTool.Properties.Resources.resources
+D:\support\xiang\Documents\GitHub\YuntiVpnAutoUpdate\RouteTool\obj\Debug\RouteTool.csproj.GenerateResource.Cache
+D:\support\xiang\Documents\GitHub\YuntiVpnAutoUpdate\RouteTool\obj\Debug\RouteTool.exe
+D:\support\xiang\Documents\GitHub\YuntiVpnAutoUpdate\RouteTool\obj\Debug\RouteTool.pdb

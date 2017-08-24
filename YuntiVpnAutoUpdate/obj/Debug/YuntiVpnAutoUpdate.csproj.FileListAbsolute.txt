@@ -31,3 +31,14 @@ C:\XTH\C# Help\YuntiVpnAutoUpdate\YuntiVpnAutoUpdate\obj\Debug\YuntiVpnAutoUpdat
 C:\XTH\C# Help\YuntiVpnAutoUpdate\YuntiVpnAutoUpdate\obj\Debug\YuntiVpnAutoUpdate.frmMain.resources
 C:\XTH\C# Help\YuntiVpnAutoUpdate\YuntiVpnAutoUpdate\obj\Debug\YuntiVpnAutoUpdate.Properties.Resources.resources
 C:\XTH\C# Help\YuntiVpnAutoUpdate\YuntiVpnAutoUpdate\obj\Debug\YuntiVpnAutoUpdate.csproj.GenerateResource.Cache
+D:\support\xiang\Documents\GitHub\YuntiVpnAutoUpdate\YuntiVpnAutoUpdate\obj\Debug\YuntiVpnAutoUpdate.exe
+D:\support\xiang\Documents\GitHub\YuntiVpnAutoUpdate\YuntiVpnAutoUpdate\obj\Debug\YuntiVpnAutoUpdate.pdb
+D:\support\xiang\Documents\GitHub\YuntiVpnAutoUpdate\YuntiVpnAutoUpdate\bin\Debug\YuntiVpnAutoUpdate.exe
+D:\support\xiang\Documents\GitHub\YuntiVpnAutoUpdate\YuntiVpnAutoUpdate\bin\Debug\YuntiVpnAutoUpdate.pdb
+D:\support\xiang\Documents\GitHub\YuntiVpnAutoUpdate\YuntiVpnAutoUpdate\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\support\xiang\Documents\GitHub\YuntiVpnAutoUpdate\YuntiVpnAutoUpdate\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\support\xiang\Documents\GitHub\YuntiVpnAutoUpdate\YuntiVpnAutoUpdate\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\support\xiang\Documents\GitHub\YuntiVpnAutoUpdate\YuntiVpnAutoUpdate\obj\Debug\YuntiVpnAutoUpdate.csprojResolveAssemblyReference.cache
+D:\support\xiang\Documents\GitHub\YuntiVpnAutoUpdate\YuntiVpnAutoUpdate\obj\Debug\YuntiVpnAutoUpdate.frmMain.resources
+D:\support\xiang\Documents\GitHub\YuntiVpnAutoUpdate\YuntiVpnAutoUpdate\obj\Debug\YuntiVpnAutoUpdate.Properties.Resources.resources
+D:\support\xiang\Documents\GitHub\YuntiVpnAutoUpdate\YuntiVpnAutoUpdate\obj\Debug\YuntiVpnAutoUpdate.csproj.GenerateResource.Cache

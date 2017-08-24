@@ -43,6 +43,7 @@ namespace YuntiVpnAutoUpdate
             string speed_upUrlString = @"https://www.yuntibit.com/admin/speed_up/download?platform=windows_nt_6";
             string siteCookie = string.Empty;
 
+            //打开网站中
             WriteState("打开网站中...");
             webBrowser.Navigate(sign_inUrlString);
             WebBrowserLoding(webBrowser);

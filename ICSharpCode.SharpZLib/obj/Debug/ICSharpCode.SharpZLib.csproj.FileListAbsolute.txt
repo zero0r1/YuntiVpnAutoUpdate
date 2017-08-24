@@ -28,3 +28,9 @@ C:\XTH\C# Help\YuntiVpnAutoUpdate\bin\ICSharpCode.SharpZipLib.pdb
 C:\XTH\C# Help\YuntiVpnAutoUpdate\ICSharpCode.SharpZLib\obj\Debug\ICSharpCode.SharpZLib.csprojResolveAssemblyReference.cache
 C:\XTH\C# Help\YuntiVpnAutoUpdate\ICSharpCode.SharpZLib\obj\Debug\ICSharpCode.SharpZipLib.dll
 C:\XTH\C# Help\YuntiVpnAutoUpdate\ICSharpCode.SharpZLib\obj\Debug\ICSharpCode.SharpZipLib.pdb
+D:\support\xiang\Documents\GitHub\YuntiVpnAutoUpdate\bin\ICSharpCode.SharpZipLib.xml
+D:\support\xiang\Documents\GitHub\YuntiVpnAutoUpdate\bin\ICSharpCode.SharpZipLib.dll
+D:\support\xiang\Documents\GitHub\YuntiVpnAutoUpdate\bin\ICSharpCode.SharpZipLib.pdb
+D:\support\xiang\Documents\GitHub\YuntiVpnAutoUpdate\ICSharpCode.SharpZLib\obj\Debug\ICSharpCode.SharpZLib.csprojResolveAssemblyReference.cache
+D:\support\xiang\Documents\GitHub\YuntiVpnAutoUpdate\ICSharpCode.SharpZLib\obj\Debug\ICSharpCode.SharpZipLib.dll
+D:\support\xiang\Documents\GitHub\YuntiVpnAutoUpdate\ICSharpCode.SharpZLib\obj\Debug\ICSharpCode.SharpZipLib.pdb
