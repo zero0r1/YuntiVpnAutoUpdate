@@ -4,5 +4,5 @@
 ICSharpCode.SharpZLib
 
 
-# Abort
-Use .Net Framework Web Browser simulation human browser website download file and run
+# About
+Use .Net Framework Web Browser simulation human browsing website download file and run
